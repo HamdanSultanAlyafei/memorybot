@@ -30,7 +30,7 @@ This is a full demonstration of **long-term memory architecture** — one of the
 
 ## 🎯 Live Demo
 
-**👉 [Try it now — no sign-up required](https://memorybot-zbwpuplgtvemmsgvfafy9l.streamlit.app/)**
+**👉 [Try it now — no sign-up required](https://memorybot-hamdansultanalyafei.streamlit.app/)**
 
 Just enter your name and start chatting. Come back later — it will remember you.
 
