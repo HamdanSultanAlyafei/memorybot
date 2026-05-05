@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langchain-pinecone
+pinecone
+sentence-transformers
+groq
+streamlit
+python-dotenv
