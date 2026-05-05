@@ -1,3 +1,0 @@
-"""
-MemoryBot — Persistent Conversational Agent
-"""
